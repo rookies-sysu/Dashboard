@@ -18,6 +18,8 @@ Name with * means he/she is group mananger.
 
 ## Investigation
 
+Workflow graph link [百度脑图 - Hippo Order](https://github.com/rookies-sysu/Dashboard). Password is `9PsW`
+
 ## Vision
 
 ## Product Backlog
