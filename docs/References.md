@@ -5,7 +5,7 @@
 
 ## 正在使用
 
-### Git 分支开发
+### 1. Git 分支开发
 
 > 为了使得 Github 上的仓库开发分支清晰合理
 
@@ -14,18 +14,18 @@
 
 > **主要注意的是使用 `--no-ff` 来保证 master 分支版本演进的清晰**
 
-### Web api 设计
+### 2. Web api 设计
 
 1. [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
 
-### 微信小程序前端开发
+### 3. 微信小程序前端开发
 
 
-### python3 Flask 后台开发
+### 4. python3 Flask 后台开发
 
 1. [参考谷歌python开发规范](http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
 
-### DevOps 部署运维
+### 5. DevOps 部署运维
 
 1. [Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)
 
