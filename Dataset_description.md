@@ -82,7 +82,6 @@
   | order_state | varchar(10)  |      | The state of order       |
   | remark      | varchar(500) |      | The remark of order      |
 
-  ​
 
 - **Menu**
 
@@ -95,7 +94,6 @@
   | food_desc  | varchar(100) |      | The description of food   |
   | food_img   | varchar(100) |      | The address of food image |
 
-  ​
 
 - **Ordering**
 
@@ -106,7 +104,6 @@
   | ordering_time | date |      | The time of ordering |
   | table_num     | int  |      | The number of table  |
 
-  ​
 
 - **Select**
 
@@ -116,7 +113,6 @@
   | food_id     | int  | PRI  | The ID of food              |
   | food_num    | int  |      | The number of selected food |
 
-  ​
 
 
 - **Manager1**
@@ -126,7 +122,6 @@
   | seller_id | int  | PRI  | The ID of seller |
   | food_id   | int  |      | The ID of food   |
 
-  ​
 
 - **Manager2**
 
@@ -135,4 +130,3 @@
   | seller_id | int  | PRI  | The ID of seller |
   | order_id  | int  |      | The ID of order  |
 
-  ​
