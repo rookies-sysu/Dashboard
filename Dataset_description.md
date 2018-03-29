@@ -3,7 +3,7 @@
 
 ## 1 ER模型
 
-![ER模型](C:\Users\jingy\OneDrive\under-graduate\大三下\系统分析\Project\ER模型.png)
+![ER模型](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ER_model.png)
 
 
 
