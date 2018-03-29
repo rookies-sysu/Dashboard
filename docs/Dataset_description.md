@@ -1,6 +1,5 @@
 # Dataset of Tinny Hippo
 
-[TOC]
 
 ## 1 ER模型
 
@@ -109,7 +108,7 @@
 
   ​
 
-- **Select **
+- **Select**
 
   | Field       | Type | Key  | Description                 |
   | ----------- | ---- | ---- | --------------------------- |
@@ -120,7 +119,7 @@
   ​
 
 
-- **Manager1 **
+- **Manager1**
 
   | Field     | Type | Key  | Description      |
   | --------- | ---- | ---- | ---------------- |
