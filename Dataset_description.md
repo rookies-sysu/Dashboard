@@ -102,7 +102,7 @@
   | customer_id   | int  | PRI  | The ID of customer   |
   | order_id      | int  |      | The ID of order      |
   | ordering_time | date |      | The time of ordering |
-  | table_num     | int  |      | The number of table  |
+  | table_id      | int  |      | The ID of table      |
 
 
 - **Select**
