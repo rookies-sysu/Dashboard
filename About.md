@@ -6,6 +6,10 @@
 - 更加人性化的UI设计
 - and more
 
+整体逻辑图如下
+
+![Logic Diagram](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/logic_graph.png)
+
 ## Iterations
 
 ### Itearation 1 (by Apr. 4)
