@@ -114,7 +114,7 @@
 ### 产品定位
 中小型餐馆，消费水平中下
 ### 业务范围
-- 基本业务：
+见[百度脑图 - Hippo 点餐](http://naotu.baidu.com/file/21d8788ebe4fca8f2860b5ac30fa0974?token=131e22ee5b70f85e) 密码 `9PsW`
 
 ## Week 3 - Mar. 19
 ### 要讨论的内容
