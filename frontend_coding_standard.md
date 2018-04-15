@@ -12,7 +12,7 @@
         <image src="{{item}}" class="slide-image" />
       </swiper-item>
     </block>
- </swiper>
+</swiper>
 ```
 - 尽量避免多余的父标签。
 - 所有wxml标签必须有结束符`</view>` `</block>` `</button>`等。
