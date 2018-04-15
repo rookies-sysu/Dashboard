@@ -141,8 +141,8 @@ if(x) {
 
 数组和对象的初始化，如果初始值不是很长，就保持写在单行上。
 ```
-var arr = [1, 2, 3];  // No space after [ or before ].
-var obj = {a : 1, b : 2, c : 3};  // No space after { or before }.
+var arr = [ 1, 2, 3 ];  //  space after [ or before ] according to ESLint standard.
+var obj = { a : 1, b : 2, c : 3 };  //  space after { or before }.
 ```
 初始值占用多行时，缩进四个空格。
 ```
