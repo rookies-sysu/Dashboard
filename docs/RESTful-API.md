@@ -117,20 +117,29 @@ GET /cars?sort=-manufactorer,+model
 
 这是返回根据生产者降序和模型升序排列的car集合
 
+GET /tickets?sort=-priority,created_at
+
+复杂的排序规则应该通过组合实现，排序规则有多个rule以逗号间隔组合而成。
+
 选择：
 
-移动端能够显示其中一些字段，它们其实不需要一个资源的所有字段，给API消费者一个选择字段的能力，这会降低网络流量，提高API可用性。
+有时候API使用者不需要所有的结果，在进行横向限制的时候（例如值返回API结果的前十项）还应该可以进行纵向限制。
+
+并且这个功能能有效的提高网络带宽使用率和速度。
+
+可以使用fields查询参数来限制返回的域例如：
 
 GET /cars?fields=manufacturer,model,id,color
 
 分页：
 
-使用 limit 和offset.实现分页，缺省limit=20 和offset=0；
+将分页信息放到link header里面：http://tools.ietf.org/html/rfc5988#page-6。
 
-GET /cars?offset=10&limit=5
+来自github的文档：
 
-为了将总数发给客户端，使用订制的HTTP头： X-Total-Count.
+Link: <https://api.github.com/user/repos?page=3&per_page=100>; rel="next", 
 
+<https://api.github.com/user/repos?page=50&per_page=100>; rel="last"
 
 ### 7. 状态码
 
@@ -156,6 +165,7 @@ GET /cars?offset=10&limit=5
 
 500 – Internal Server Error – API开发者应该避免这种错误。
 
+**更新和创建操作应该返回对应的状态码，防止用户多次的API调用。
 
 ### 8. 错误处理
 
@@ -235,10 +245,26 @@ Content-Type 定义请求格式
 
 Accept 定义系列可接受的响应格式
 
-### 11.其他
+### 13. 基于验证的缓存
 
-（1）API的身份认证应该使用OAuth 2.0框架。
+**不要在服务端存储应用状态
 
-（2）服务器返回的数据格式，**应该尽量使用JSON**，避免使用XML。
+RESTful HTTP的交互必须是无状态的，这表明每一次请求要包含处理该请求所需的一切信息，每一次请求都应该包含鉴权证明。
+
+客户端负责维护应用状态，RESTful服务端不需要在请求间保留应用状态，服务端负责维护资源状态而不是应用状态。
+
+通过使用ssl我们可以不用每次都提供用户名和密码：我们可以给用户返回一个随机产生的token。
+
+这样可以极大的方便使用浏览器访问API的用户。
+
+这种方法适用于用户可以首先通过一次用户名-密码的验证并得到token，并且可以拷贝返回的token到以后的请求中。
+
+如果不方便，可以使用OAuth 2来进行token的安全传输。
+
+### 14.其他
+
+（1）**应该尽量使用JSON**，避免使用XML。
+
+（2）使用蛇形命令（下划线和小写）。
 
 
