@@ -13,13 +13,13 @@ layout: default
 * 5、[Product Backlog](05-product-backlog)
 * 6、Requirement specification（需求规格说明）
     - 6.1 [Usecase Diagram](06-01-usecase-diagram)
-    - 6.2 [Use Cases](06-02-use-cases)（用例+活动图，缺少活动图）
+    - 6.2 [Use Cases](06-02-use-cases)（用例+活动图）
     - 6.3 [Domian Model](06-03-domain-model)（领域模型）
     - 6.4 ⭐**update**⭐ [State Model](06-04-state-model)（状态模型）
 * 7、Design（设计）
     - 7.1 UI design
         - [XX 用例 UI设计](07-01-01-XX-ui-design)
-    - 7.2 Database design**(这里的文件结构和内容需要重新理一遍)**
+    - 7.2 Database design
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
         - 7.2.3 XX子系统数据课设计
