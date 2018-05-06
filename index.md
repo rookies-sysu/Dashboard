@@ -24,7 +24,7 @@ layout: default
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
         - 7.2.3 XX子系统数据课设计
         - 7.2.x [第三方数据评审结果](07-02-03-第三方数据评审结果)
-    - 7.3 ⭐**update**⭐ API 设计
+    - 7.3 ⭐**update**⭐ [API 设计](07-03-API)
 * 8、生产规范与指南
     - 8.1 [后台服务端 Python 代码规范](08-01-backend-coding-standard)
     - 8.1 [前端微信小程序代码规范](08-01-frontend-coding-standard)
