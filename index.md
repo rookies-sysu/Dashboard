@@ -30,6 +30,5 @@ layout: default
     - 8.1 [前端微信小程序代码规范](08-01-frontend-coding-standard)
     - 8.2 ⭐**update**⭐ [REST API设计规范](08-02-RESTful-api-design-standard)
 * X1 meet_recording
-    * [总meetings](X1-meetings)
-    * inception meeting (yy/mm/dd)
+    * [所有meetings](X1-meetings)
 * [X2 Tech/Work Report](X2-techwork-report)
