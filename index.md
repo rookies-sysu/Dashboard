@@ -27,8 +27,8 @@ layout: default
     - 7.3 ⭐**update**⭐ [API 设计](07-03-API)
 * 8、生产规范与指南
     - 8.1 [后台服务端 Python 代码规范](08-01-backend-coding-standard)
-    - 8.1 [前端微信小程序代码规范](08-01-frontend-coding-standard)
-    - 8.2 ⭐**update**⭐ [REST API设计规范](08-02-RESTful-api-design-standard)
+    - 8.2 [前端微信小程序代码规范](08-02-frontend-coding-standard)
+    - 8.3 ⭐**update**⭐ [REST API设计规范](08-03-RESTful-api-design-standard)
 * X1 meet_recording
     * [所有meetings](X1-meetings)
 * [X2 Tech/Work Report](X2-techwork-report)
