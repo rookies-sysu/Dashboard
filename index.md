@@ -29,7 +29,7 @@ layout: default
 * 8、生产规范与指南
     - 8.1 [后台服务端 Python 代码规范](08-01-backend-coding-standard)
     - 8.1 [前端微信小程序代码规范](08-01-frontend-coding-standard)
-    - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
+    -  8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
 * X1 meet_recording
     * [总meetings](X1-meetings) (考虑一下按照老师的要求把它给拆分出来？想下面的这个例子一样)
     * inception meeting (yy/mm/dd)
