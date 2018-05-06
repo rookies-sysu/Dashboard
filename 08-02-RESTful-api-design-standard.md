@@ -172,25 +172,18 @@ Link: <https://api.github.com/user/repos?page=3&per_page=100>; rel="next",
 如果状态码是4xx，就应该向用户返回出错信息。一般来说，返回的信息中将error作为键名，出错信息作为键值即可。
 使用详细的错误包装错误：
 
+```json
 {
-
   "errors": [
-
    {
-
     "userMessage": "Sorry, the requested resource does not exist",
-
     "internalMessage": "No car found in the database",
-
     "code": 34,
-
     "more info": "http://dev.mwaysolutions.com/blog/api/v1/errors/12345"
-
    }
-
   ]
-
 }
+```
 
 ### 9. 返回结果
 
@@ -214,17 +207,14 @@ RESTful API最好做到Hypermedia，即返回结果中提供链接，连向其�
 
 比如，当用户向api.example.com的根目录发出请求，会得到这样一个文档。
 
+```json
 {"link":{
-
   "rel":  "collection https://www.example.com/zoos",
-
   "href": "https://api.example.com/zoos",
-
   "title":"List of zoos",
-
   "type": "application/vnd.yourformat+json"
-
 }}
+```
 
 上面代码表示，文档中有一个link属性，用户读取这个属性就知道下一步该调用什么API了。
 
