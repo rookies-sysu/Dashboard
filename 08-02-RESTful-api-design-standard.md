@@ -93,7 +93,7 @@ PATCH /zoos/ID：更新某个指定动物园的信息（提供该动物园的部
 
 DELETE /zoos/ID：删除某个动物园
 
-** 使用PUT, POST 和DELETE 方法 而不是 GET 方法来改变状态，不要使用GET 进行状态改变.**
+**使用PUT, POST 和DELETE 方法 而不是 GET 方法来改变状态，不要使用GET 进行状态改变.**
 
 GET /users/711?activate 
 
