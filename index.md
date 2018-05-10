@@ -6,20 +6,20 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About](01-about)（项目规划）
-* 2、[Team profile](02-team-profile)（团队组建）
-* 3、[Investigation](03-investigation)（项目前期调研）
-* 4、[Vision](04-vision)（项目愿景）
-* 5、[Product Backlog](05-product-backlog)
-* 6、Requirement specification（需求规格说明）
+* 1、[About 项目规划](01-about)
+* 2、[Team profile 团队组建](02-team-profile)
+* 3、[Investigation 项目前期调研](03-investigation)
+* 4、[Vision 项目愿景](04-vision)
+* 5、[Product Backlog 产品特性](05-product-backlog)
+* 6、Requirement specification 需求规格说明
     - 6.1 [Usecase Diagram](06-01-usecase-diagram)
-    - 6.2 [Use Cases](06-02-use-cases)（用例+活动图）
-    - 6.3 [Domian Model](06-03-domain-model)（领域模型）
-    - 6.4 [State Model](06-04-state-model)（状态模型）
-* 7、Design（设计）
-    - 7.1 UI design
+    - 6.2 [Use Cases 用例+活动图](06-02-use-cases)
+    - 6.3 [Domian Model 领域模型](06-03-domain-model)
+    - 6.4 [State Model 状态模型](06-04-state-model)
+* 7、Design 设计
+    - 7.1 UI design UI 设计
         - [XX 用例 UI设计](07-01-01-XX-ui-design)
-    - 7.2 Database design
+    - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
         - 7.2.3 XX子系统数据课设计
