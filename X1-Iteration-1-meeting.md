@@ -1,3 +1,32 @@
+## Week 6 - Apr. 9
+### 补文档
+因为时间不够所以没有和大家商量，大家一起来补一下文档吧！
+
+需要写的文档有：
+1. About（项目规划）✔
+2. Team profile（团队组建）✔
+3. Investigation（项目前期调研）
+4. Vision（项目愿景）✔
+5. Product Backlog （产品特性）
+6. Requirement specification（需求规格说明）
+	- 6.1 Usecase Diagram
+7. Design（设计）
+	- 7.1 UI design
+	- XX 用例 UI设计
+8. 生产规范与指南
+	- XX 代码规范 ✔
+9. Meeting recording（会议记录）✔
+	- inception meeting (yy/mm/dd)
+10. Tech/Work Report（工作报告）✔
+	- 学号-title
+11. Use cases（用例图）
+
+每人一篇学习报告哦~
+
+
+---
+
+
 ## Week 4 - Mar. 25
 ### 要讨论的内容
 **团队**
@@ -25,29 +54,4 @@
 **后台**
 1. 数据库增删改查
 
----
 
-## Week 6 - Apr. 9
-### 补文档
-因为时间不够所以没有和大家商量，大家一起来补一下文档吧！
-
-需要写的文档有：
-1. About（项目规划）✔
-2. Team profile（团队组建）✔
-3. Investigation（项目前期调研）
-4. Vision（项目愿景）✔
-5. Product Backlog （产品特性）
-6. Requirement specification（需求规格说明）
-	- 6.1 Usecase Diagram
-7. Design（设计）
-	- 7.1 UI design
-	- XX 用例 UI设计
-8. 生产规范与指南
-	- XX 代码规范 ✔
-9. Meeting recording（会议记录）✔
-	- inception meeting (yy/mm/dd)
-10. Tech/Work Report（工作报告）✔
-	- 学号-title
-11. Use cases（用例图）
-
-每人一篇学习报告哦~
