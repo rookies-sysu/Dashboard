@@ -1,6 +1,6 @@
 # Team profile
 
-目前，小河马团队共6人，他们是：[Ecr23]()、[longjj]()、[BeAShaper]()、[Arurururu]()、[Yunglinjy]()、[Nition]()。目前，我们的分工如下
+目前，小河马团队共6人，他们是：[Ecr23](ecr23.me)、[longjj]()、[BeAShaper]()、[Arurururu]()、[Yunglinjy]()、[Nition]()。目前，我们的分工如下
 
 - 项目经理: Ecer23*
 - 前端团队: BeAShaper*, Arurururu, Ecer23
