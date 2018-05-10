@@ -1,3 +1,11 @@
+## Week 3 - Mar. 23
+### 产品定位
+中小型餐馆，消费水平中下
+### 业务范围
+见[百度脑图 - Hippo 点餐](http://naotu.baidu.com/file/21d8788ebe4fca8f2860b5ac30fa0974?token=131e22ee5b70f85e) 密码 `9PsW`
+
+---
+
 ## Week 3 - Mar. 19
 ### 要讨论的内容
 1. 课题（10min想+10min选+10min大框架）
@@ -22,10 +30,3 @@
 3. 需求分析有额外文档，链接见 Dashboard
 4. 进度安排见Github
 
----
-
-## Week 3 - Mar. 23
-### 产品定位
-中小型餐馆，消费水平中下
-### 业务范围
-见[百度脑图 - Hippo 点餐](http://naotu.baidu.com/file/21d8788ebe4fca8f2860b5ac30fa0974?token=131e22ee5b70f85e) 密码 `9PsW`
