@@ -98,9 +98,8 @@
    - 如果系统检测到与支付平台通信失败，顾客无法支付，跳转回
   订单页面顾客重新选择支付。
   
-  
-  
-![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/usecase_activity1.png)
+活动图：
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity1.png)
 
       
 ### Use case 2.2 管理订单
@@ -117,8 +116,9 @@
  同时合并旧订单与新订单。
    - 顾客已完成支付并离店，
  订单状态更新为已完成，商家选择删除订单。
- 
-![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/usecase_activity2.png)
+
+活动图：
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity2.png)
         
 ## 简述用例
 
