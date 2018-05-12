@@ -25,7 +25,7 @@ Google翻译手机应用是谷歌公司提供一项免费的翻译服务app，�
 
 在输入框输入源语言的待翻译文字，输入框下方会实时生成目标语言的翻译结果。<br />
 
-!()[https://github.com/BeAShaper/Hello-World/blob/master/2.png]
+![](https://github.com/BeAShaper/Hello-World/blob/master/2.png)
 
 
 ### 截图4
