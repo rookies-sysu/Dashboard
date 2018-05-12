@@ -34,6 +34,12 @@
 
 ![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd_payment.png)
 
+### 5.搜索菜品
 
+*by 15331222*
+
+用户输入菜品关键字查看相关菜品信息
+
+![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd_search_dish.png)
 
 
