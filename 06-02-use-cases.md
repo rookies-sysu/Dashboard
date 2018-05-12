@@ -93,9 +93,13 @@
    - 顾客到前台要求现金或银行卡支付，商家收到付款后手动更新订单状态为已支付。
    - 如果系统检测到与支付平台通信失败，顾客无法支付，跳转回订单页面顾客重新选择支付。
 
+**用例图**：
+
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/uc2.1.png)
+
 **活动图**：
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity1.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity2.1.png)
 
       
 ### Use case 2.2 管理订单
@@ -107,9 +111,14 @@
 - 顾客需要加菜，确认后提交新订单，商家收到订单则打印出来交给厨房，并再打印一张给顾客，同时合并旧订单与新订单。
 - 顾客已完成支付并离店，订单状态更新为已完成，商家选择删除订单。
 
+**用例图**：
+
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/uc2.2.png)
+
+
 **活动图**：
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity2.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity2.2.png)
         
 ## 简述用例
 
