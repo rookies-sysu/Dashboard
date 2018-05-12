@@ -32,7 +32,7 @@
 
 用户点击微信支付支付订单
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_payment.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_payment.png)
 
 ### 5.搜索菜品
 
@@ -40,6 +40,6 @@
 
 用户输入菜品关键字查看相关菜品信息
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_search_dish.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_search_dish.png)
 
 
