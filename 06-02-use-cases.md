@@ -95,7 +95,7 @@
 
 **活动图**：
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity1.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity1.png)
 
       
 ### Use case 2.2 管理订单
@@ -109,7 +109,7 @@
 
 **活动图**：
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity2.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase/usecase_activity2.png)
         
 ## 简述用例
 
