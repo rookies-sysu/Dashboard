@@ -99,6 +99,7 @@
   订单页面顾客重新选择支付。
   
 活动图：
+
 ![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity1.png)
 
       
@@ -118,6 +119,7 @@
  订单状态更新为已完成，商家选择删除订单。
 
 活动图：
+
 ![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity2.png)
         
 ## 简述用例
