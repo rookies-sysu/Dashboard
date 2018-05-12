@@ -1,3 +1,5 @@
+
+
 # System Sequence Diagram （功能模型）
 
 根据我们的[用例分析](https://rookies-sysu.github.io/Dashboard/06-02-use-cases)
@@ -22,3 +24,16 @@
 用户可以浏览今日推荐的内容
 
 ![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd_today.png)
+
+
+### 4.支付订单
+
+*by 15331251*
+
+用户点击微信支付支付订单
+
+![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd_payment.png)
+
+
+
+
