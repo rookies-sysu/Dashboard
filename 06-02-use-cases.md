@@ -97,7 +97,7 @@
    
    - 如果系统检测到与支付平台通信失败，顾客无法支付，跳转回
   订单页面顾客重新选择支付。
-  
+
 活动图：
 
 ![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/usecase_activity1.png)
