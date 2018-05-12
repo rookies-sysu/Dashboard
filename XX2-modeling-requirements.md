@@ -1,6 +1,6 @@
 # XX2 建模要求
 
-参考文档：XX1-Google翻译应用.md <br />
+参考文档：[XX1-Google翻译应用](https://rookies-sysu.github.io/Dashboard/XX1-google-translate-app)  
 建模工具： UMLet 14.1.1 stand-alone
 
 ## Task1
