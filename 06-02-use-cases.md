@@ -116,8 +116,8 @@
    - 顾客已完成支付并离店，
  订单状态更新为已完成，商家选择删除订单。
  
-          
-         
+![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/usecase_activity2.png)
+        
 ## Brief_Usecase
 
 ### 1. Use Case：查看订单
