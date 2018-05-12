@@ -35,3 +35,6 @@ layout: default
     - [Iteration 1 meeting (2018/04/09)](X1-Iteration-1-meeting)
     - [Iteration 2 meeting (2018/05/09)](X1-Iteration-2-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
+* XX 建模练习
+    - [XX1 Google Tranlate 应⽤](XX1-google-translate)
+    - [XX2 建模要求](XX2-modeling-requirements)
