@@ -15,14 +15,15 @@ Google翻译手机应用是谷歌公司提供一项免费的翻译服务app，�
 <img src="https://github.com/BeAShaper/Hello-World/blob/master/1.png" width=40%>
 
 ### 截图2
+Google翻译可提供 103 种语言之间的即时翻译，点击源语言和目标语言，可以选择支持语言之一进行翻译。<br />
+
+<img src="https://github.com/BeAShaper/Hello-World/blob/master/3.png" width=60%>
+
+### 截图3
 在输入框输入源语言的待翻译文字，输入框下方会实时生成目标语言的翻译结果。<br />
 
 <img src="https://github.com/BeAShaper/Hello-World/blob/master/2.png" width=40%>
 
-### 截图3
-Google翻译可提供 103 种语言之间的即时翻译，点击源语言和目标语言，可以选择支持语言之一进行翻译。<br />
-
-<img src="https://github.com/BeAShaper/Hello-World/blob/master/3.png" width=60%>
 
 ### 截图4
 点击主页面的相机按钮，可以用相机拍摄文字进行实时翻译。下图左边是实际的显示的文字，右边是软件实时翻译的截图。即时相机翻译可将拍摄的文字即时翻译成 38 种语言。<br />
