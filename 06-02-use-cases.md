@@ -1,4 +1,6 @@
-# 用例UC1：顾客点餐
+# Use cases
+
+## 详述用例 Use case 1 顾客点餐
 
 **范围** ：tiny hippo 点餐应用
 
@@ -81,7 +83,7 @@
 
 
 ## 非正式用例
-### 1.Use Case：处理付款
+### Use Case 2.1 处理付款
 
 主成功场景：
    - 顾客点完餐后，进入订单界面，点击微信支付或支付宝等平台成功支付，
@@ -101,7 +103,7 @@
 ![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/usecase_activity1.png)
 
       
-### 2.Use Case：管理订单
+### Use case 2.2 管理订单
 
 主成功场景：
    - 顾客点餐完毕后确认并提交订单，
@@ -118,9 +120,9 @@
  
 ![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/usecase_activity2.png)
         
-## Brief_Usecase
+## 简述用例
 
-### 1. Use Case：查看订单
+### Use case 3.1 查看订单
 
 - Actor：顾客
 - Type：Primary
@@ -128,14 +130,14 @@
     菜上了几个之后，顾客想看看自己还点了什么，需不需要加餐，于是打开手机小程序点击查看订单，
     发现点的数量刚刚好。
     
-### 2.Use Case：查看回复评论
+### Use Case 3.2 查看回复评论
 - Actor：商家
 - Type：Primary
 - Description：商家进入管理界面，点击每一个菜品中的评论按钮，查看
     顾客们对用餐的评价，发现员工们的服务态度收到表扬，上菜速度和质量也很不错，
     于是给顾客们回复“谢谢支持，我们会努力做的更好”。
     
-### 3.Use Case：发布菜式
+### Use Case 3.3 发布菜式
 - Actor：商家
 - Type：Primary
 - Description：厨房研发出了新的菜式，老板试过味道觉得可以推出，
