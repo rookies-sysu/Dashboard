@@ -20,3 +20,5 @@
 *by 15331253*
 
 用户可以浏览今日推荐的内容
+
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd_today.png)
