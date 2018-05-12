@@ -23,7 +23,7 @@
 
 用户可以浏览今日推荐的内容
 
-![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd_today.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_today.png)
 
 
 ### 4.支付订单
@@ -32,7 +32,7 @@
 
 用户点击微信支付支付订单
 
-![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd_payment.png)
+![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_payment.png)
 
 ### 5.搜索菜品
 
@@ -40,6 +40,6 @@
 
 用户输入菜品关键字查看相关菜品信息
 
-![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd_search_dish.png)
+![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_search_dish.png)
 
 
