@@ -35,6 +35,17 @@
 ![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_today.png)
 
 
+
+### 3. 获取菜品详细信息
+
+by 15331229
+
+用户获取某个菜品的详细信息
+
+![dish_detail](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_dish_detail.png?raw=true)
+
+
+
 ### 4.支付订单
 
 *by 15331251*
