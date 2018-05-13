@@ -56,7 +56,7 @@
 *by 15331200*
 
 商家输入验证信息和更新内容对菜单进行更新
-![](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/ssd/ssd_update_menu.png)
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_update_menu.png)
 
 
 
