@@ -17,6 +17,14 @@
 
 ## 系统顺序图
 
+### 1. 浏览菜单
+
+*by 15331238*
+
+用户进入主菜单页面浏览菜单
+
+![](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/ssd/ssd_menu.png)
+
 ### 2. 今日推荐
 
 *by 15331253*
