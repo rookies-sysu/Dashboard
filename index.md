@@ -26,6 +26,7 @@ layout: default
         - 7.2.3 XX子系统数据课设计
         - 7.2.x [第三方数据评审结果](07-02-03-第三方数据评审结果)
     - 7.3 [API 设计](https://app.swaggerhub.com/apis/tiny-hippo/API-document/1.0.0)
+    - 7.4 [Software Architecture Document](07-04-software-architecture-document)
 * 8、生产规范与指南
     - 8.1 [后台服务端 Python 代码规范](08-01-backend-coding-standard)
     - 8.2 [前端微信小程序代码规范](08-02-frontend-coding-standard)
