@@ -17,6 +17,7 @@ layout: default
     - 6.3 [Domian Model 领域模型](06-03-domain-model)
     - 6.4 [State Model 状态模型](06-04-state-model)
     - 6.5 [System Sequence Diagram 功能模型](06-05-system-sequence-diagram)
+    - 6.6 [Supplementary Requirements 补充性说明](06-06-supplementary-requirements)
 * 7、Design 设计
     - 7.1 UI design UI 设计
         - [XX 用例 UI设计](07-01-01-XX-ui-design)
