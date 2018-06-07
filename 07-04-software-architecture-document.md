@@ -33,6 +33,7 @@
 
 ## 逻辑视图
 
+![logic_view](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/logicView.png?raw=true)
 
 
 ## 物理视图
