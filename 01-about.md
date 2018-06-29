@@ -12,24 +12,41 @@
 
 ## Iterations
 
+## Iteration 3 (by Jun. 30)
+
+#### 目标
+
+1. 前端完成管理系统开发，实现菜品增删改查
+2. 前端后台完成对接，并完成多人点餐功能
+3. 测试
+
+#### Week 
+
 ### Iteration 2 (by May. 30)
 
 中间大家写作业去了，所以停工了一段时间。第二次迭代截止日期在五月月底
 
 #### 目标
+
 1. 前端完成第二版 UI
 2. 前端更新 UI 第三版设计，包括多人同时点餐的功能支持
 3. 后台按照前期文档中的领域模型等等来完成后台设计
 4. 后台完成多人同时点餐的设计
 
+#### Week 12 (May)
+
+#### Week 11 (May. 14 ~ May. 20)
+
+详细工作内容请见 [KANBAN - Week 11](https://github.com/orgs/rookies-sysu/projects/7)
+
 #### Week 10 (May. 7 ~ May. 13)
 
 详细工作内容请见 [KANBAN - Week 10](https://github.com/orgs/rookies-sysu/projects/6)
 
-- [ ] 小程序今日推荐页面
+- [x] 小程序今日推荐页面
 - [x] 小程序菜单页面
 - [x] 小程序订单详情页面
-- [ ] 后台 API 接口开放
+- [x] 后台 API 接口开放
 
 ### Itearation 1 (by Apr. 4)
 
