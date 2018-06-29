@@ -2,13 +2,24 @@
 
 **小河马点餐**是一个微信点餐小程序。它以微信为入口，使用手机进行点餐。小河马点餐相比传统点餐服务，除了支持传统的浏览、下单、付款的传统服务之外，还有以下几个特点：
 
-- 支持多人同时点餐
-- 更加人性化的UI设计
-- and more
+
 
 整体逻辑图如下
 
 ![Logic Diagram](https://raw.githubusercontent.com/rookies-sysu/Dashboard/master/imgs/logic_graph.png)
+
+## 项目结构
+
+项目主要分成三个部分
+
+1. [Order-System-Frontend](https://github.com/rookies-sysu/Order-System-Frontend) 使用微信小程序开发的扫码点餐小程序，主要特性是
+  - 支持单人和多人同时点餐
+  - 用户可以在丰富的、实时更新的推荐系统中快速找到喜爱和热门的食物
+  - 操作简单，人性化的UI设计
+2. [Order-System-Backend](https://github.com/rookies-sysu/Order-System-Backend) 
+3. [Management-System-Frontend](https://github.com/rookies-sysu/Management-System-Frontend) 使用 Vue 开发的商家管理系统，主要特性是
+  - 商家可以增删改查菜品和推荐系统
+  - 商家可以查看订单状况
 
 ## Iterations
 
