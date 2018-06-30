@@ -32,6 +32,7 @@ layout: default
 * 8、生产规范与指南
     - 8.1 [代码规范](08-01-coding-standard)
     - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
+    - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
 * X1 meet_recording
     - [Inception meeting (2018/03/23)](X1-inception-meeting)
