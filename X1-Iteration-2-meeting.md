@@ -202,22 +202,14 @@
 
 
 **文档分工**
-1. 用例图      
--- longjj先探索出一个例子，之后再分工一起完成
-2. UI          
--- Ecr23
-3. 规范        
--- 后台用谷歌的规范，前端用ESlint，BeAShaper
-4. 技术博客    
--- dashboard，每人一篇
-5. 前期调研    
--- 实地考察并写出报告，Nition
-6. 将文档整合  
--- Yunglinjy
-7. 会议记录    
--- Arurururu
-8. 愿景等其他   
--- BeAShaper
+1. 用例图       longjj先探索出一个例子，之后再分工一起完成
+2. UI           Ecer23
+3. 规范         后台用谷歌的规范，前端用ESlint，BeAShaper
+4. 技术博客     dashboard，每人一篇
+5. 前期调研     实地考察并写出报告，Nition
+6. 将文档整合   Yunglinjy
+7. 会议记录     Arurururu
+8. 愿景等其他    BeAShaper
 
 
 

@@ -23,10 +23,10 @@
 ### 讨论结果
 1. 课题：点餐系统
 2. 分工（*为负责人）
-	- 前端：BeAShaper*，Arurururu，Ecr23
+	- 前端：BeAShaper*，Arurururu，Ecer23
 	- 后台：longjj*，Yunglinjy，Nition
 	- 部署/测试：longjj*
-	- 项目经理：Ecr23*
+	- 项目经理：Ecer23*
 3. 需求分析有额外文档，链接见 Dashboard
 4. 进度安排见Github
 
