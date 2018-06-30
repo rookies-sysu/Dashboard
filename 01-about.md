@@ -15,11 +15,15 @@
 
 ## Demo
 
-（加载时间可能比较长，请耐心等候🙂）
+（加载时间可能比较长，请耐心等候🙂。建议在 https://rookies-sysu.github.io/Dashboard/01-about 网站下查看）
+
+小程序点单系统
+
+![小程序点单GIF]()
 
 商家管理系统
 
-![](http://ww1.sinaimg.cn/large/005JCcFJgy1fstj4zhufvg30yf0g8kjq.gif)
+![商家管理系统GIF](http://ww1.sinaimg.cn/large/005JCcFJgy1fstj4zhufvg30yf0g8kjq.gif)
 
 ## 项目结构
 
