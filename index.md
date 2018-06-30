@@ -32,6 +32,7 @@ layout: default
     - 8.1 [后台服务端 Python 代码规范](08-01-backend-coding-standard)
     - 8.2 [前端微信小程序代码规范](08-02-frontend-coding-standard)
     - 8.3 [REST API设计规范](08-03-RESTful-api-design-standard)
+    - 8.5 [部署文档](08-05-deployment-doc)
 * X1 meet_recording
     - [inception meeting (2018/03/23)](X1-inception-meeting)
     - [Iteration 1 meeting (2018/04/09)](X1-Iteration-1-meeting)
