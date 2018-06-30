@@ -1,7 +1,5 @@
 # Software Architecture Document
 
-
-
 ## 架构问题
 
 ### 可靠性和可恢复性
@@ -34,11 +32,9 @@
 * 数据库适当建立索引
 * 数据库定期备份，当数据库出现操作失误或系统故障导致数据丢失时可以恢复数据
 
-
 ## 逻辑视图
 
 ![logic_view](https://github.com/rookies-sysu/Dashboard/blob/master/imgs/logicView.png?raw=true)
-
 
 ## 物理视图
 
