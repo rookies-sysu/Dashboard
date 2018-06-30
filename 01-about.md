@@ -13,6 +13,14 @@
 
 - [管理系统](http://111.230.31.38:8080/)
 
+## Demo
+
+（加载时间可能比较长，请耐心等候🙂）
+
+商家管理系统
+
+![](http://ww1.sinaimg.cn/large/005JCcFJgy1fstj4zhufvg30yf0g8kjq.gif)
+
 ## 项目结构
 
 项目主要分成三个部分
