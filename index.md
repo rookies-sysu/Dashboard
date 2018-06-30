@@ -39,7 +39,9 @@ layout: default
     - [Iteration 2 meeting (2018/05/09)](X1-iteration-2-meeting)
     - [Iteration 3 meeting (2018/06/30)](X1-iteration-3-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
-* [X3 Final Report](X3-final-report)
+* X3 Final Report
+* 	- [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
+* 	- [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
 * XX 建模练习
     - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
     - [XX2 建模要求](XX2-modeling-requirements)
