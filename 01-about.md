@@ -19,7 +19,7 @@
 
 小程序点单系统
 
-![小程序点单GIF]()
+![小程序点单GIF](http://ww4.sinaimg.cn/large/005JCcFJgy1fstkmg0fwsg30h30goe8b.gif)
 
 商家管理系统
 
