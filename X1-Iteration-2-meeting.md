@@ -1,4 +1,4 @@
-# Iteration 2 meeting
+# 第二次迭代会议记录
 
 ## Week 10 - May. 9
 
