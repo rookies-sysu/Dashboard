@@ -36,9 +36,9 @@ layout: default
     - 8.4 [部署文档](08-04-deployment-doc)
 * X1 meet_recording
     - [Inception meeting (2018/03/23)](X1-inception-meeting)
-    - [Iteration 1 meeting (2018/04/09)](X1-iteration-1-meeting)
-    - [Iteration 2 meeting (2018/05/09)](X1-iteration-2-meeting)
-    - [Iteration 3 meeting (2018/06/30)](X1-iteration-3-meeting)
+    - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting)
+    - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting)
+    - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
 * [X3 Final Report](X3-final-report)
     - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
