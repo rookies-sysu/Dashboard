@@ -44,6 +44,7 @@ layout: default
     - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
     - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
     - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
+    - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
 * XX 建模练习
     - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
     - [XX2 建模要求](XX2-modeling-requirements)
